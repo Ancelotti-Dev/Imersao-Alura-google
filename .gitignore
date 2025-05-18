@@ -1,0 +1,17 @@
+# Ambientes virtuais
+.venv/
+env/
+__pycache__/
+
+# Node modules
+node_modules/
+
+# Build do React
+mentor-futuro/build/
+
+# IDE
+.vscode/
+*.code-workspace
+
+# Chaves
+*.env
